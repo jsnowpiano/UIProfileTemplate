@@ -10,7 +10,7 @@
 }
 
 ul {
-    display: flexbox;
+    display: flex;
     flex-direction: column;
     list-style-type: none;
     align-items: flex-start; 
